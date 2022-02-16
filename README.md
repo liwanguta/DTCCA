@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ``` 
 
 ## Example run
-A sample run on multiple feature dataset can be executed as
+A sample run on [multiple feature dataset](https://archive.ics.uci.edu/ml/datasets/Multiple+Features) can be executed as
 ```
 python dtcca.py 
 ```
