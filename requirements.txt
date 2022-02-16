@@ -1,0 +1,5 @@
+torch
+numpy
+tensorly==0.4.5
+scikit-learn
+scipy
